@@ -1,0 +1,39 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/omnicat-app",
+    "crates/omnicat-core",
+    "crates/omnicat-storage-turso"
+]
+
+[workspace.package]
+authors = ["Miroslav Krýsl <mkrysl@proton.me>"]
+description = "Note-oriented life organizer"
+edition = "2024"
+license = "AGPL-3-only"
+repository = "https://github.com/miroslavkrysl/omnicat"
+rust-version = "1.97.0"
+version = "0.1.0"
+
+[workspace.dependencies]
+omnicat-app = { path = "crates/omnicat-app" }
+omnicat-core = { path = "crates/omnicat-core" }
+omnicat-storage-turso = { path = "crates/omnicat-storage-turso" }
+
+assertables = "9.9.0"
+async-trait = "0.1.89"
+derive_more = "2.1.1"
+dioxus = "0.7.9"
+futures = "0.3.32"
+icu_normalizer = "2.2.0"
+indoc = "2.0.7"
+rootcause = "0.12.1"
+serde = "1.0.228"
+time = "0.3.47"
+tokio = "1.52.3"
+tracing = "0.1.44"
+turso = "0.6.0-pre.31"
+uuid = "1.23.1"
+#unimock = "0.6.8"
+#tempfile = "3.27.0"
+

@@ -1,0 +1,6 @@
+[settings]
+idiomatic_version_file_enable_tools = ["rust"]
+
+[tools]
+"cargo:cargo-binstall" = "latest"
+"cargo:dioxus-cli" = "latest"

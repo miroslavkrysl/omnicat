@@ -1,6 +1,6 @@
-# Omnicat
+# omnicat
 
-Note-oriented life organizer: **note-taking**, **calendar**, and **chat**, with an emphasis on effortless search and organization, security, decentralization, and collaboration.
+Note-oriented life organizer: **note-taking**, **calendar and **chat**, with an emphasis on effortless search and organization, security, decentralization, and collaboration.
 
 > [!CAUTION]
 > WIP - this project is in very early work-in-progress, see [project roadmap](#project-roadmap) for list of implemented and planned features. 
@@ -73,3 +73,10 @@ This roadmap outlines the planned and completed features for **omnicat** life or
 - Local storage for channels and notes
 - Desktop application for Linux with GUI
 
+## License
+
+Copyright © 2026 Miroslav Krýsl <mkrysl@proton.me>.
+
+This project is licensed exclusively under the GNU Affero General Public License v3.0 (AGPL-3.0-only).
+
+The full license text is available in the [`LICENSE`](LICENSE) file included in this repository.

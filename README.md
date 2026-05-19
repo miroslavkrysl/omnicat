@@ -1,6 +1,6 @@
 # omnicat
 
-Note-oriented life organizer: **note-taking**, **calendar and **chat**, with an emphasis on effortless search and organization, security, decentralization, and collaboration.
+Note-oriented life organizer: **note-taking**, **calendar** and **chat**, with an emphasis on effortless search and organization, security, decentralization, and collaboration.
 
 > [!CAUTION]
 > WIP - this project is in very early work-in-progress, see [project roadmap](#project-roadmap) for list of implemented and planned features. 
